@@ -4,6 +4,7 @@ import Right from "../../assets/img/Muter.png";
 const Ornament = () => {
   return (
     <>
+    
       <img
         src={Left}
         alt=""
