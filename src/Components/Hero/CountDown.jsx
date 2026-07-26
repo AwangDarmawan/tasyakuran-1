@@ -1,5 +1,5 @@
 import CardCountDown from "./CardCountDown";
-import UseCountDown from "./useCountDown";
+import UseCountDown from "./UseCountDown";
 
 
 const CountDown = () => {
