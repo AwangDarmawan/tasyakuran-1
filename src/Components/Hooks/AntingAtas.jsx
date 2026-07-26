@@ -1,4 +1,4 @@
-import Anting from "../../assets/img/Anting.png";
+import Anting from "../../assets/Img/Anting.png";
 
 const AntingAtas = ({ position = "top" }) => {
   const positionClass =
