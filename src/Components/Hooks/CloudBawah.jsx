@@ -1,4 +1,4 @@
-import Cloud from "../../assets/img/CloudB.png";
+import Cloud from "../../assets/Img/CloudB.png";
 
 const CloudBawah = ({ position = "top" }) => {
   const positionClass =

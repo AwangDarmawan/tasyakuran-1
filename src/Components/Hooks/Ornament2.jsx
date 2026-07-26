@@ -1,5 +1,5 @@
-import Left from "../../assets/img/Muter.png";
-import Right from "../../assets/img/Muter.png";
+import Left from "../../assets/Img/Muter.png";
+import Right from "../../assets/Img/Muter.png";
 
 const Ornament2 = () => {
   return (
