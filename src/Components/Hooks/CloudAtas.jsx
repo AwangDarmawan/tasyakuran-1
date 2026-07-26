@@ -1,4 +1,4 @@
-// import Cloud from "../../assets/img/Cloud.png";
+
 
 
 const CloudAtas = ({ position = "top" }) => {
