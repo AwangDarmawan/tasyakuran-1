@@ -1,5 +1,6 @@
 import CardCountDown from "./CardCountDown";
-import useCountDown from "./useCountDown";
+import UseCountDown from "./useCountDown";
+
 
 const CountDown = () => {
 
@@ -8,7 +9,7 @@ const CountDown = () => {
     hours,
     minutes,
     seconds,
-  } = useCountDown("2027-08-17");
+  } = UseCountDown("2027-08-17");
 
   return (
     <div className="mt-8 flex justify-center gap-3">
